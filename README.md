@@ -1,4 +1,4 @@
-# revival_equals_survival: a data project on the overdose crisis
+# Revival = Survival: a data project on the overdose crisis
 
 <img src="img/revival_hero_image-dan-meyers-unsplash.png">
 
