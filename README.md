@@ -5,9 +5,9 @@
 ## Introduction
 I learned at a Shopify internship process webinar that applicants would need to submit a personal coding project to walk through. So I decided to build something from scratch by the deadline. And I wanted to ensure my project would be different from everyone else's. 
 
-I chose to focus on the opiate overdose crisis because of my interest in social-justice issues. And it's personal, too; I lost my cousin, Vince, my uncle, Kevin and Xephiral, my friend. This is relevant to my application, as well. Shopify empowers merchants and consumers — but you can't become empowered if you're dead. 
+I chose to focus on the opiate overdose crisis because of my interest in social-justice issues. And it's personal, too; I lost my cousin, Vince, my uncle, Kevin and Xephiral, my friend. The theme is relevant to my application, as well: Shopify empowers merchants and consumers — but you can't become empowered if you're dead. 
 
-The opiate overdose crisis sits at the nexus of two large social forces — (1) rampant overprescribing of addictive medications, and (2) a toxic, unregulated street drug supply. No one deserves to die because of that. And now there's a chance for them to get better. Once revived, they can survive.
+The opiate overdose crisis sits at the nexus of two intractable social forces — (1) rampant overprescribing of addictive medications, and (2) a toxic, unregulated street drug supply. No one deserves to die because of that. And now there's a chance for them to get better. Once revived, they can survive.
 
 Naloxone, a treatment that can temporarily reverse an opioid overdose, is available over the counter at pharmacies around Ontario and across Toronto. 
 
@@ -26,12 +26,12 @@ conda install -c gusdunn pdfplumber</code>
 If you cannot install pdfplumber for your OS, don't worry. The output of the data manipulation for which it is used is saved in the /csv folder. Full details within the Jupyter Notebook.
 
 
-
 ## Roadmap/next steps
 Here is a list of next steps for this project:
 <br>
 <ul>
-    <>
+    <li>
+        <>
 
 ## References
 I reviewed the following relevant references whilst working on **Revival = Survival**:
