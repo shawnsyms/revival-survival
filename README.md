@@ -42,3 +42,4 @@ I reviewed the following relevant references whilst working on **Revival = Survi
 <li><a href='https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html'>Creating a GeoDataFrame from a DataFrame with coordinates</a></li>
 <li><a href='https://www.ontario.ca/page/get-naloxone-kits-free'>Recognize and temporarily reverse an opioid overdose</a></li>
 </ul>
+<li><a href='https://github.com/mcrr/isleofinsanityandhope/'>Github for _Isle of Insanity and Grief: Overcoming my son's overdose and death_</a></li>
