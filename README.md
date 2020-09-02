@@ -22,14 +22,14 @@ The purpose of this project is two-fold. First, I use data visualization tools a
 ## Next steps
 
 ## References
-I reviewed the following relevant references whilst working on Revival = Survival:
+I reviewed the following relevant references whilst working on **Revival = Survival**:
 <ul> 
 <li><a href='http://www.openstreetmap.org'>Open Street Map</a></li>
 <li><a href='https://polaris.shopify.com'>Shopify Polaris</a></li>
 <li><a href='https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889'>A tour of the top 5 sorting algorithms with Python code</a></li>
 <li><a href='https://www.arcgis.com/home/webmap/viewer.html?webmap=b44592265a7e405d95be7d811e1a52ef'>ArcGIS City of Toronto basemap</a></li>
 <li><a href='https://open.toronto.ca/dataset/neighbourhoods/'>City of Toronto Open Data Project: Neighbourhoods</a></li>
-<li><a href='https://medium.com/@lisachen_7431/using-folium-to-visualize-distribution-of-public-services-in-140-toronto-neighbourhoods-e53271b7f43f?sk=cac47558e62ead38bd07e0e335f49c44&fbclid=IwAR2N5CnDwXumLtgUajXNiEWy8SP8IFGah8klYc8eIhkki-mOeel6YrJATDo'></a></li>
+<li><a href='https://medium.com/@lisachen_7431/using-folium-to-visualize-distribution-of-public-services-in-140-toronto-neighbourhoods-e53271b7f43f?sk=cac47558e62ead38bd07e0e335f49c44&fbclid=IwAR2N5CnDwXumLtgUajXNiEWy8SP8IFGah8klYc8eIhkki-mOeel6YrJATDo'>Using Folium to Visualize Distribution of Public Services in 140 Toronto Neighbourhoods</a></li>
 <li><a href='https://developer.here.com/blog/understanding-geocoding-with-python'>Geocoding a Location Using Python and Flask</a></li> 
 <li><a href='https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html'>Geographic Data with Basemap</a></li>
 <li><a href='https://datascience.quantecon.org/applications/maps.html'>Mapping in Python – QuantEcon DataScience</a></li>
