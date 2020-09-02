@@ -24,7 +24,7 @@ The purpose of this project is two-fold. First, I use data visualization tools a
 ## References
 I reviewed the following relevant references whilst working on Revival = Survival:
 <ul> 
-<li>http://www.openstreetmap.org</li>
+<li><a href='http://www.openstreetmap.org'>Open Street Map</a></li>
 <li><a href='https://polaris.shopify.com'>Shopify Polaris</a></li>
 <li><a href='https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889'>A tour of the top 5 sorting algorithms with Python code</a></li>
 <li><a href='https://www.arcgis.com/home/webmap/viewer.html?webmap=b44592265a7e405d95be7d811e1a52ef'>ArcGIS City of Toronto basemap</a></li>
@@ -39,7 +39,6 @@ I reviewed the following relevant references whilst working on Revival = Surviva
 <li><a href='https://oslandia.com/en/2017/07/03/openstreetmap-data-analysis-how-to-parse-the-data-with-python/'>OpenStreetMap data analysis: how to parse the data with Python?</li></a>
 <li><a href='https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac'>Mapping with Matplotlib, Pandas, Geopandas and Basemap in Python</a></li>
 <li><a href='https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972'>GeoPandas 101</a></li>
-<li>
-Creating a GeoDataFrame from a DataFrame with coordinates: https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html</li>
+<li><a href='https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html'>Creating a GeoDataFrame from a DataFrame with coordinates</a></li>
 <li><a href='https://www.ontario.ca/page/get-naloxone-kits-free'>Recognize and temporarily reverse an opioid overdose</a></li>
 </ul>
