@@ -22,5 +22,10 @@ The purpose of this project is two-fold. First, I use data visualization tools a
 ## Next steps
 
 ## References
-I read the following relevant articles whilst working on Revival = Survival:
+I reviewed the following relevant articles whilst working on Revival = Survival:
+<ul> 
+<li>http://www.openstreetmap.org</li>
+<li><a href='https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972'>GeoPandas 101</a></li>
+<li>
+Creating a GeoDataFrame from a DataFrame with coordinates: https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html</li>
 
