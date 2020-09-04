@@ -29,6 +29,7 @@ If you cannot install pdfplumber for your OS, don't worry. The output of the dat
 ## Roadmap/next steps
 Here is a list of next steps for this project:
 <br>
+
 <ul>
     <li>Try out additional geocoding APIs</li>
     <li>Rewrite the main piece of code</li>
@@ -39,7 +40,31 @@ Here is a list of next steps for this project:
 ### Visualizations
 
 <ul>
-    <li></li>
+    <li>
+        <a href='https://www.toronto.ca/community-people/health-wellness-care/health-inspections-monitoring/toronto-overdose-information-system/'>Toronto Overdose Information System</a>
+    </li>
+    <li>
+        <a href='https://www.ottawapublichealth.ca/en/reports-research-and-statistics/drug-use-and-overdose-statistics.aspx#Drug-Checking-Results'>Drug Testing Results, Ottawa</a>
+    </li>
+    <li>
+        <a href='https://health-infobase.canada.ca/substance-related-harms/opioids/'>Opioid-related Harms in Canada</a>
+    </li>
+    <li>
+        <a href='https://www.cihi.ca/en/opioids-in-canada'>Canadian Institute for Health Information</a>
+    </li>
+</ul>
+
+### Pharmacy locator
+
+<ul> 
+    <li>
+        <a href='Description:[http://members.ocpinfo.com/TCPR/Public/PR/EN/#/forms/new/?table=0x800000000000003C&form=0x800000000000002B&command=0x80000000000007C4](https://www.google.com/url?q=http://members.ocpinfo.com/TCPR/Public/PR/EN/%23/forms/new/?table%3D0x800000000000003C%26form%3D0x800000000000002B%26command%3D0x80000000000007C4&sa=D&source=calendar&usd=2&usg=AOvVaw0XPdW-MhYPS0ZSylwRNN18) '>Ontario College of Pharmacists</a>
+    </li>
+    <li>
+        <a href='https://www.manionwilkins.com/wp-content/uploads/2018/07/Quarterly-Disp-Fee-Rpt_with-DA-COB-claims-ESC-BOB-Q2-2018-Ontario-only-wdc-EN.pdf'>Manion Wilkins, Inc.</a>
+    </li>
+</ul>
+
 
 ## References
 I reviewed the following relevant references whilst working on **Revival = Survival**:
@@ -50,52 +75,52 @@ I reviewed the following relevant references whilst working on **Revival = Survi
     <li>
         <a href='https://polaris.shopify.com'>Shopify Polaris</a>
     </li>
-    
     <li>
-        <a href='https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889'>A tour of the top 5 sorting algorithms with Python code</a>
+    <a href='https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889'>A tour of the top 5 sorting algorithms with Python code</a>
     </li>
     <li>
-        <a href='https://www.arcgis.com/home/webmap/viewer.html?webmap=b44592265a7e405d95be7d811e1a52ef'>ArcGIS City of Toronto basemap</a>
+    <a href='https://www.arcgis.com/home/webmap/viewer.html?webmap=b44592265a7e405d95be7d811e1a52ef'>ArcGIS City of Toronto basemap</a>
     </li>
-    <li>
-        <a href='https://open.toronto.ca/dataset/neighbourhoods/'>City of Toronto Open Data Project: Neighbourhoods</a>
+	<li>
+    <a href='https://open.toronto.ca/dataset/neighbourhoods/'>City of Toronto Open Data Project: Neighbourhoods</a>
+	</li>
+	<li>
+    <a href='https://medium.com/@lisachen_7431/using-folium-to-visualize-distribution-of-public-services-in-140-toronto-neighbourhoods-e53271b7f43f?sk=cac47558e62ead38bd07e0e335f49c44&fbclid=IwAR2N5CnDwXumLtgUajXNiEWy8SP8IFGah8klYc8eIhkki-mOeel6YrJATDo'>Using Folium to Visualize Distribution of Public Services in 140 Toronto Neighbourhoods</a>
+	</li>
+	<li>
+    <a href='https://developer.here.com/blog/understanding-geocoding-with-python'>Geocoding a Location Using Python and Flask</a>
+	</li> 
+	<li>
+    <a href='https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html'>Geographic Data with Basemap</a>
+	</li>
+	<li>
+    <a href='https://datascience.quantecon.org/applications/maps.html'>Mapping in Python – QuantEcon DataScience</a>
+	</li>
+	<li>
+    <a href='https://mobiforge.com/design-development/geo-sorting-using-device-geolocation-to-sort-distance'>Geo-sorting: Using Device Geolocation to Sort by Distance</a>
+	</li>
+	<li>
+    <a href='http://maps.stamen.com'>Map Stack | Stamen Design</a>
+	</li>
+	<li>
+    <a href='https://www.kite.com/python/answers/how-to-find-the-distance-between-two-lat-long-coordinates-in-python'>How to find the distance between two lat-long coordinates in Python</a>
+	</li>
+	<li>
+    <a href='https://oslandia.com/en/2017/07/03/openstreetmap-data-analysis-how-to-parse-the-data-with-python/'>OpenStreetMap data analysis: how to parse the data with Python?'</a>
     </li>
-    <li>
-        <a href='https://medium.com/@lisachen_7431/using-folium-to-visualize-distribution-of-public-services-in-140-toronto-neighbourhoods-e53271b7f43f?sk=cac47558e62ead38bd07e0e335f49c44&fbclid=IwAR2N5CnDwXumLtgUajXNiEWy8SP8IFGah8klYc8eIhkki-mOeel6YrJATDo'>Using Folium to Visualize Distribution of Public Services in 140 Toronto Neighbourhoods</a>
-    </li>
-    <li>
-        <a href='https://developer.here.com/blog/understanding-geocoding-with-python'>Geocoding a Location Using Python and Flask</a>
-    </li> 
-    <li>
-        <a href='https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html'>Geographic Data with Basemap</a>
-    </li>
-    <li>
-        <a href='https://datascience.quantecon.org/applications/maps.html'>Mapping in Python – QuantEcon DataScience</a>
-    </li>
-    <li>
-        <a href='https://mobiforge.com/design-development/geo-sorting-using-device-geolocation-to-sort-distance'>Geo-sorting: Using Device Geolocation to Sort by Distance</a>
-    </li>
-    <li>
-        <a href='http://maps.stamen.com'>Map Stack | Stamen Design</a>
-    </li>
-    <li>
-        <a href='https://www.kite.com/python/answers/how-to-find-the-distance-between-two-lat-long-coordinates-in-python'>How to find the distance between two lat-long coordinates in Python</a>
-    </li>
-    <li>
-        <a href='https://oslandia.com/en/2017/07/03/openstreetmap-data-analysis-how-to-parse-the-data-with-python/'>OpenStreetMap data analysis: how to parse the data with Python?</li>
-    </a>
-    <li>
-        <a href='https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac'>Mapping with Matplotlib, Pandas, Geopandas and Basemap in Python</a>
-    </li>
-    <li>
-        <a href='https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972'>GeoPandas 101</a>
-    </li>
-    <li>
-        <a href='https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html'>Creating a GeoDataFrame from a DataFrame with coordinates</a>
-    </li>
-    <li>
-        <a href='https://www.ontario.ca/page/get-naloxone-kits-free'>Recognize and temporarily reverse an opioid overdose</a>
-    </li>
-    <li><a href='https://github.com/mcrr/isleofinsanityandhope/'>Github for *Isle of Insanity and Grief: Overcoming my son's overdose and death*</a>
-    </li>
-</ul>
+	<li>
+    <a href='https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac'>Mapping with Matplotlib, Pandas, Geopandas and Basemap in Python</a>
+	</li>
+	<li>
+    <a href='https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972'>GeoPandas 101</a>
+	</li>
+	<li>
+    <a href='https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html'>Creating a GeoDataFrame from a DataFrame with coordinates</a>
+	</li>
+	<li>
+    <a href='https://www.ontario.ca/page/get-naloxone-kits-free'>Recognize and temporarily reverse an opioid overdose</a>
+	</li>
+	<li>
+	<a href='https://github.com/mcrr/isleofinsanityandhope/'>Github for Isle of Insanity and Grief: Overcoming my son's overdose and death</a>
+	</li>
+</ul>    	
