@@ -2,14 +2,14 @@
 
 <img src="img/revival_hero_image-dan-meyers-unsplash.png">
 
-## Introduction
+## Overview
 I learned at a Shopify internship process webinar that applicants would need to submit a personal coding project to walk through. So I decided to build something from scratch by the deadline. And I wanted to ensure my project would be different from everyone else's. 
 
 I chose to focus on the opiate overdose crisis because of my interest in social-justice issues. And it's personal, too; I lost my cousin, Vince, my uncle, Kevin and Xephiral, my friend. The theme is relevant to my application, as well: Shopify empowers merchants and consumers — but you can't become empowered if you're dead. 
 
 The opiate overdose crisis sits at the nexus of two intractable social forces — (1) rampant overprescribing of addictive medications, and (2) a toxic, unregulated street drug supply. No one deserves to die because of that. And now there's a chance for them to get better. Once revived, they can survive.
 
-Naloxone, a treatment that can temporarily reverse an opioid overdose, is available over the counter at pharmacies around Ontario and across Toronto. 
+Naloxone, a treatment that can temporarily reverse an opioid overdose, is available free at pharmacies around Ontario and across Toronto. 
 
 The purpose of this project is two-fold. First, I use data visualization tools and techniques to tell the story of the overdose epidemic. Second, I've built a simple tool based on a geo-spatial dataset that can inform concerned and compassionate people about the locations of the nearest pharmacies where they can access naloxone. Carrying it on their person, anyone can save a life. 
 
@@ -30,8 +30,16 @@ If you cannot install pdfplumber for your OS, don't worry. The output of the dat
 Here is a list of next steps for this project:
 <br>
 <ul>
-    <li>
-        <>
+    <li>Try out additional geocoding APIs</li>
+    <li>Rewrite the main piece of code</li>
+</ul>
+
+## Data sources
+
+### Visualizations
+
+<ul>
+    <li></li>
 
 ## References
 I reviewed the following relevant references whilst working on **Revival = Survival**:
@@ -39,7 +47,6 @@ I reviewed the following relevant references whilst working on **Revival = Survi
     <li>
         <a href='http://www.openstreetmap.org'>Open Street Map</a>
     </li>
-    
     <li>
         <a href='https://polaris.shopify.com'>Shopify Polaris</a>
     </li>
