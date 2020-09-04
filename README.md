@@ -54,7 +54,7 @@ Here is a list of next steps for this project:
     </li>
 </ul>
 
-### Pharmacy locator
+### Locators
 
 <ul> 
     <li>
@@ -63,11 +63,17 @@ Here is a list of next steps for this project:
     <li>
         <a href='https://www.manionwilkins.com/wp-content/uploads/2018/07/Quarterly-Disp-Fee-Rpt_with-DA-COB-claims-ESC-BOB-Q2-2018-Ontario-only-wdc-EN.pdf'>Manion Wilkins, Inc.</a>
     </li>
+    <li>
+        <a href='https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-8'>Toronto Safer Injection Sites</a>
+    </li>
+    <li>
+        <a href='https://www.ontario.ca/page/mental-health-services'>Toronto R.A.A.M. clinics</a></li>
 </ul>
 
 
+
 ## References
-I reviewed the following relevant references whilst working on **Revival = Survival**:
+I reviewed the following relevant references whilst working on **Revival = Survival.** Many of them include details on code/packages/tactics that I did not end up using, however they are all useful to visit.
 <ul>
     <li>
         <a href='http://www.openstreetmap.org'>Open Street Map</a>
