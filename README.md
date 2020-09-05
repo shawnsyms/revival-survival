@@ -3,15 +3,15 @@
 <img src="img/revival_hero_image-dan-meyers-unsplash.png">
 
 ## Overview
-I learned at a Shopify internship process webinar that applicants would need to submit a personal coding project to walk through. So I decided to build something from scratch by the deadline. And I wanted to ensure my project would be different from everyone else's. 
+I learned at a Shopify internship process webinar that applicants would need to submit a personal coding project to walk through. So I decided to try and build something from scratch by the deadline. And I wanted to ensure my project would be different from everyone else's. 
 
 I chose to focus on the opiate overdose crisis because of my interest in social-justice issues. And it's personal, too; I lost my cousin, Vince, my uncle, Kevin and Xephiral, my friend. The theme is relevant to my application, as well: Shopify empowers merchants and consumers — but you can't become empowered if you're dead. 
 
-The opiate overdose crisis sits at the nexus of two intractable social forces — (1) rampant overprescribing of addictive medications, and (2) a toxic, unregulated street drug supply. No one deserves to die because of that. And now there's a chance for them to get better. Once revived, they can survive.
+The opiate overdose crisis sits at the nexus of two intractable social forces — (1) rampant overprescribing of addictive medications, and (2) a toxic, unregulated street drug supply. No one deserves to die because of that. And now there's a chance for them to get better. Once revived, they can survive. Naloxone, a treatment that can temporarily reverse an opioid overdose, is available free at pharmacies around Ontario and across Toronto. 
 
-Naloxone, a treatment that can temporarily reverse an opioid overdose, is available free at pharmacies around Ontario and across Toronto. 
+This project has three parts. First, I use data visualization tools and techniques to tell the story of the overdose epidemic. Second, I have built a predictive model that attempts to learn and predict overdose death counts based on various relevant statistical inputs. Third, I've built a simple tool based on a geo-spatial dataset that can inform concerned and compassionate people about the locations of the nearest pharmacies where they can access naloxone. Carrying it on their person, anyone can save a life. 
 
-The purpose of this project is two-fold. First, I use data visualization tools and techniques to tell the story of the overdose epidemic. Second, I've built a simple tool based on a geo-spatial dataset that can inform concerned and compassionate people about the locations of the nearest pharmacies where they can access naloxone. Carrying it on their person, anyone can save a life. 
+
 
 ## Configuration
 This project was set up using an anaconda virtual environment:
@@ -20,20 +20,22 @@ This project was set up using an anaconda virtual environment:
 
 Run the following from a command prompt whilst inside the environment:
 
-<code>conda install -c conda-forge folium
-conda install -c gusdunn pdfplumber</code>
+<code>conda install -c conda-forge folium</code>
 
-If you cannot install pdfplumber for your OS, don't worry. The output of the data manipulation for which it is used is saved in the /csv folder. Full details within the Jupyter Notebook.
+The directory structure of the repository should be fairly self-explanatory. For instance, csv files are in the csv directory. 
 
 
-## Roadmap/next steps
-Here is a list of next steps for this project:
-<br>
+
+## Assessment
 
 <ul>
-    <li>Try out additional geocoding APIs</li>
-    <li>Rewrite the main piece of code</li>
+    <li><strong>Data visualization:</strong> I believe I've done a reasonably good job bringing the data to life using visualization best practices and attempting to conform to the Polaris style system.</li>
+    <li><strong>Predictive modeling:</strong> TBD</li>
+    <li><strong>Naloxone locator:</strong> There are a number of improvements necessary for this app. It relies on geolocation via IP, which is not sufficiently accurate. In fact, many of the geo-coordinates seem inaccurate; this initial release could be considered a proof of concept. It's also currently deployed via Jupyter Notebook, which is insufficient in terms of reach. As a next step, it should be re-written in a combination of Javascript and python and deployed for online access using Heroku or a similar platform. This will add ease of use and drastically increase location accuracy.  
 </ul>
+
+
+
 
 ## Data sources
 
