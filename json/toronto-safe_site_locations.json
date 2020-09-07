@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fred Victor Overdose Prevention Site",
+        "Address": "145 Queen Street East",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5A 1S1",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3727847,
+          43.6536497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moss Park Overdose Prevention Site",
+        "Address": "134 Sherbourne Street",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5A 4J4",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.369567,
+          43.6541708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parkdale Queen West Community Health Centre Overdose Prevention Site",
+        "Address": "168 Bathurst Street",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5V 2R4",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4042272,
+          43.6465888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parkdale Overdose Prevention Site",
+        "Address": "1229 Queen Street West",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M6K 1L2",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4294664,
+          43.6418243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Regent Park Overdose Prevention Site",
+        "Address": "465 Dundas Street East",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5A 2B2",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3655855,
+          43.6593763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Riverdale Community Health Centre",
+        "Address": "955 Queen Street East",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M4M 3P3",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3392024,
+          43.6611433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St. Stephen's Community House",
+        "Address": "260 Augusta Avenue",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5T 2L9",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4031718,
+          43.6564262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Street Health",
+        "Address": "338 Dundas Street East",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5A 2A1",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3700074,
+          43.6586893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Works",
+        "Address": "277 Victoria Street",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5B 1W2",
+        "Distance": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.379377,
+          43.6565357
+        ]
+      }
+    }
+  ]
+}

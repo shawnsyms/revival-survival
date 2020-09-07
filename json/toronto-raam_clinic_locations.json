@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Unity Health Toronto",
+        "Address": "30 Bond Street, 17th floor",
+        "Phone": "416-864-6060 x2567",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5B 1X1",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3773981,
+          43.6537348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Humber River Hospital",
+        "Address": "1235 Wilson Avenue, 5th floor",
+        "Phone": "1-888-399-8342",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M3M 3G7",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4887557,
+          43.7237804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Women's College Hospital",
+        "Address": "76 Grenville Street, 3rd floor",
+        "Phone": "416-323-7559 x6",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5S 1B2",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3871213,
+          43.6615138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Unity Health Toronto",
+        "Address": "410 Sherbourne Street, 1st floor",
+        "Phone": "416-864-3096",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M4X 1K2",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3741718,
+          43.6647275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Unity Health Toronto",
+        "Address": "30 The Queensway, Ground floor",
+        "Phone": "416-530-6486 x3969",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M6R 1B5",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4503473,
+          43.6403937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University Health Network",
+        "Address": "399 Bathurst Street, 1st floor,",
+        "Phone": "416-726-5052",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M5T 2S8",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4059423,
+          43.6533856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Michael Garron Hospital",
+        "Address": "825 Coxwell Avenue",
+        "Phone": "416-461-8272",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M4C 3E7",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3248582,
+          43.6898713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sunnybrook Health Sciences Centre",
+        "Address": "2075 Bayview Avenue, Room A146",
+        "Phone": "416-480-6736",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M4N 3M5",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3728749,
+          43.7228457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Anishnawbe Health Toronto",
+        "Address": "4 Charles Street East, 3rd floor",
+        "Phone": "416-657-0379 x234",
+        "City": "Toronto",
+        "Province": "Ontario",
+        "Postcode": "M4Y 1T2",
+        "Distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3858761,
+          43.6688857
+        ]
+      }
+    }
+  ]
+}
