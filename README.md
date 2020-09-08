@@ -30,8 +30,9 @@ The directory structure of the repository should be fairly self-explanatory. For
 
 <ul>
     <li><strong>Data visualization:</strong> I believe I've done a reasonably good job bringing the data to life using visualization best practices and attempting to conform to the Polaris style system whilst doing so.</li>
-    <li><strong>Overdose resource locator:</strong> There are a number of improvements necessary for this app. It relies on geolocation via IP to identify user location, which is not sufficiently accurate. As a next step, it should be re-written in a combination of Javascript and python and deployed for online access using Heroku or a similar platform. This will add ease of use and drastically increase location accuracy.  
+    <li><strong>Overdose resource locator:</strong> There are a number of improvements to come. The tool currently relies on geolocation via IP to identify user location, which is not sufficiently accurate. As a next step, it will be re-written in a combination of Javascript and python and deployed for online access using Heroku or a similar platform. This will improve ease of use and drastically increase location accuracy.  
 </ul>
+
 
 
 
