@@ -9,12 +9,12 @@ I chose to focus on the opiate overdose crisis because of my interest in social-
 
 The opiate overdose crisis sits at the nexus of two intractable social forces — (1) rampant overprescribing of addictive medications, and (2) a toxic, unregulated street drug supply. No one deserves to die because of that. And now there's a chance for them to get better. Once revived, they can survive. Naloxone, a treatment that can temporarily reverse an opioid overdose, is available free at pharmacies around Ontario and across Toronto. 
 
-This project has two parts. First, I use data visualization tools and techniques to tell the story of the overdose epidemic. Second, I've built a simple tool based on a geo-spatial dataset that can inform people about the locations of nearby recovery resources, including pharmacies where they can access naloxone. Carrying it on their person, anyone can save a life. 
-
-
+This project has three parts. First, I use data visualization tools and techniques to tell the story of the overdose epidemic. Second, I've built a simple tool based on a geo-spatial dataset that can inform people about the locations of nearby recovery resources, including pharmacies where they can access naloxone. Carrying it on their person, anyone can save a life.  Third, I try to build a predictive model based on time-series data about overdose deaths in the province of Ontario.
 
 ## Configuration
-This project was set up using an anaconda virtual environment:
+NOTE: There are three modules to the project: Module 1: Data Visualization, Module 2: Overdose Resources Locator and Module 3: Predictive Model.
+
+Module 2 was set up using an anaconda virtual environment:
 
 <code>conda create --name shopify flask  numpy pandas requests</code> 
 
@@ -22,7 +22,15 @@ Run the following from a command prompt whilst inside the environment:
 
 <code>conda install -c conda-forge folium</code>
 
-The directory structure of the repository should be fairly self-explanatory. For instance, csv files are in the csv directory. 
+Similarly Module 3 can be run in a virtual environment: 
+
+<code>conda install -c matplotlib numpy pandas sklearn statsmodels</code>
+
+Run the following from a command prompt whilst inside the environment:
+
+<code>conda install -c conda-forge pmdarima</code>
+
+Otherwise, the directory structure of the repository should be fairly self-explanatory. For instance, csv files are in the csv directory. 
 
 
 
@@ -31,10 +39,8 @@ The directory structure of the repository should be fairly self-explanatory. For
 <ul>
     <li><strong>Data visualization:</strong> I believe I've done a reasonably good job bringing the data to life using visualization best practices and attempting to conform to the Polaris style system whilst doing so.</li>
     <li><strong>Overdose resource locator:</strong> There are a number of improvements to come. The tool currently relies on geolocation via IP to identify user location, which is not sufficiently accurate. As a next step, it will be re-written in a combination of Javascript and python and deployed for online access using Heroku or a similar platform. This will improve ease of use and drastically increase location accuracy.  
+    <li><strong>Predictive model:</strong> This needs a lot more work. I tried a lot of different approaches and ran into various roadblocks and learned a ton. But there is more to explore in order to ensure I can create the best model possible. 
 </ul>
-
-
-
 
 
 
@@ -70,11 +76,21 @@ The directory structure of the repository should be fairly self-explanatory. For
     <li>
         <a href='https://www.ontario.ca/page/mental-health-services'>Toronto R.A.A.M. clinics</a></li>
 </ul>
+### Predictive models 
 
+<ul>
+ 	<li>
+     <a href='https://data.ontario.ca/dataset/ontario-public-drug-programs-narcotics-monitoring-system-tracked-opioids'>Ontario Public Drug Programs Narcotics Monitoring System tracked opioids dataset</a>
+	</li>
+    <li>
+        <a href='https://www.publichealthontario.ca/en/data-and-analysis/substance-use/interactive-opioid-tool#/drug'>Interactive Opioid Tool | Public Health Ontario</a>
+    </li>
+</ul>
 
 
 
 ## Technical references
+
 I reviewed the following relevant references whilst working on **Revival = Survival.** Many of them include details on code/packages/tactics that I did not end up using, however they are all useful to visit.
 <ul>
     <li>
@@ -131,7 +147,25 @@ I reviewed the following relevant references whilst working on **Revival = Survi
 	<li>
 	<a href='https://github.com/mcrr/isleofinsanityandhope/'>Github for Isle of Insanity and Grief: Overcoming my son's overdose and death</a>
 	</li>
+        <li>
+        <a href='https://kanoki.org/2020/04/30/time-series-analysis-and-forecasting-with-arima-python/'>Time Series Analysis and Forecasting with ARIMA</a>
+    <li>
+        <a href='https://medium.com/datadriveninvestor/step-by-step-time-series-analysis-d2f117554d7e'>Step by Step Time Series Analysis</a>
+    </li>
+    <li>
+        <a href='https://medium.com/datadriveninvestor/time-series-prediction-using-sarimax-a6604f258c56'>Time Series Prediction using SARIMAX</a>
+    </li>
+    <li>
+      <a href='https://www.statsmodels.org/devel/examples/notebooks/generated/statespace_sarimax_stata.html?highlight=sarimax'>SARIMAX: Introduction — statsmodels</a>
+    </li>
+    <li>
+        <a href='https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/'>Vector Autoregression</a>
+    </li>
+    <li>
+        <a href='https://alkaline-ml.com/pmdarima/index.html'>pmdarima: ARIMA estimators for Python</a>
+    </li>
 </ul>    	
+
 
 
 
