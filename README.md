@@ -76,7 +76,7 @@ Otherwise, the directory structure of the repository should be fairly self-expla
     <li>
         <a href='https://www.ontario.ca/page/mental-health-services'>Toronto R.A.A.M. clinics</a></li>
 </ul>
-### Predictive models 
+### Predictive model
 
 <ul>
  	<li>
