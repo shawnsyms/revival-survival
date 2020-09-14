@@ -68,7 +68,7 @@ Otherwise, the directory structure of the repository should be fairly self-expla
 
 <ul> 
     <li>
-        <a href='Description:[http://members.ocpinfo.com/TCPR/Public/PR/EN/#/forms/new/?table=0x800000000000003C&form=0x800000000000002B&command=0x80000000000007C4](https://www.google.com/url?q=http://members.ocpinfo.com/TCPR/Public/PR/EN/%23/forms/new/?table%3D0x800000000000003C%26form%3D0x800000000000002B%26command%3D0x80000000000007C4&sa=D&source=calendar&usd=2&usg=AOvVaw0XPdW-MhYPS0ZSylwRNN18) '>Ontario College of Pharmacists</a>
+        <a href='http://members.ocpinfo.com/TCPR/Public/PR/EN/#/forms/new/?table=0x800000000000003C&form=0x800000000000002B&command=0x80000000000007C4'>Ontario College of Pharmacists</a>
     </li>
     <li>
         <a href='https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-8'>Toronto Safer Injection Sites</a>
@@ -76,7 +76,8 @@ Otherwise, the directory structure of the repository should be fairly self-expla
     <li>
         <a href='https://www.ontario.ca/page/mental-health-services'>Toronto R.A.A.M. clinics</a></li>
 </ul>
-### Predictive model
+
+### Predictive Model
 
 <ul>
  	<li>
